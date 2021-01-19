@@ -1,0 +1,17 @@
+$rojo: red;
+$blanco: white;
+
+$_10px: 15px;
+
+.container {
+    background-color: $rojo;
+
+    article {
+        padding: $_10px;
+
+        p {
+            color: $blanco;
+            font-size: 30px;
+        }
+    }
+}

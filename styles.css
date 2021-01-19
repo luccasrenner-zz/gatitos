@@ -1,0 +1,9 @@
+.container {
+  background-color: red; }
+  .container article {
+    padding: 15px; }
+    .container article p {
+      color: white;
+      font-size: 30px; }
+
+/*# sourceMappingURL=styles.css.map */
